@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:#572c41;
+    color: #ff9a56;
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+    width:95%;
+}
+
+h1 {
+    color: #01ffff;
+    text-align: center;
+}
+
+a {
+    color: #2b81d8;
+}
+
+a:hover, a:focus{
+    color: #01ffff;
+}
+
+link {
+    color: #ff9a56;
+}
