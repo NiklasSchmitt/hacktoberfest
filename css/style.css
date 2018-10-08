@@ -48,8 +48,7 @@ img {
     content: " |";
     color: #ff9a56;
 }
-.contributors{
-}
+
 @media (max-width: 600px){
     .contributors{
         display: flex;
