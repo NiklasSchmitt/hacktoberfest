@@ -1,5 +1,5 @@
-# hacktoberfest
-I created a simple website to fetch all contributors of hacktoberfest. Check it out here: https://niklasschmitt.github.io/hacktoberfest
+# Hacktoberfest
+I created a simple website to list all contributors of this project. Check it out here: https://niklasschmitt.github.io/hacktoberfest
 
 # joining the list
 To join to the list of contributors you just need to do this simple steps:
