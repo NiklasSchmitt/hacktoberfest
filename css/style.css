@@ -38,7 +38,7 @@ img {
 }
 
 .contributors {
-    width: 87%;
+    width: 55%;
     margin-right: auto;
     margin-left: auto;
     padding-bottom: 2em;
@@ -48,6 +48,26 @@ img {
     content: " |";
     color: #ff9a56;
 }
+
+.ButtonEdit{
+  background-color: #1B67D1;
+  width:150px;
+  color:white;
+  border-radius: 10px;
+  outline:none;
+  border:none;
+  font-size: 14px;
+  padding:10px 20px;
+  margin-bottom: 30px;
+  transition-duration: .3s;
+
+}
+
+.ButtonEdit:hover{
+  background-color:#1755AC;
+  transition-duration: .3s;
+}
+
 
 @media (max-width: 600px){
     .contributors{
