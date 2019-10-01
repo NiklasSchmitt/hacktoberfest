@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color:#572c41;
+    background-color: #152346;
     color: #ff9a56;
     text-align: center;
 }
@@ -16,13 +16,13 @@ body {
 }
 
 h1 {
-    color: #01ffff;
+    color: #E721A7;
     text-align: center;
     margin-bottom: 5px;
 }
 
 a {
-    color: #2b81d8;
+    color: #E721A7;
     text-decoration: none;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
@@ -46,7 +46,7 @@ img {
 
 .contributors a:not(:last-of-type)::after {
     content: " |";
-    color: #ff9a56;
+    color: #4CA6F8;
 }
 
 @media (max-width: 600px){
