@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color:#572c41;
+    background-color:#470f4d;
     color: #ff9a56;
     text-align: center;
 }
@@ -26,6 +26,7 @@ a {
     text-decoration: none;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
+    display : block;
 }
 
 a:hover, a:focus{
